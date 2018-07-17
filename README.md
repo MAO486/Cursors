@@ -57,3 +57,5 @@ alternate	= “文件名字+拓展名”
 link		= “文件名字+拓展名”
 
 感谢阅读！
+
+下载地址【☞[戳这里](http://pan.baidu.com/s/1slo6LS5)】
